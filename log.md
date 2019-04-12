@@ -1,5 +1,13 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 5: April 11
+- **today i..** completed setting up the menial task of the object of keypress to audio elements, it didnt actually take that long. now working on a nested for in loop since chaining a lot of if statements to check for information seemed quite redundant 
+  - **thoughts:** when you think something will take longer then it should and it doesn't! also glad to recall and apply multidimensional for loop for arrays can help for objects. i remember doing my first projects for fCC and could have gone this way but did the repetive i believe
+- current progress: [HERE](https://codepen.io/haleyelder/full/EMyveL)
+  - location: home
+  - time: 45 min
+  - tags: react
+
 ### 4: April 9
 - **today i..** need to regrab those audio clips! a update ran, i guess, and the notepad i had them in disappeared (save your work, friends!). started setting up an object to reference with the necessary info for the on handle key press function rather than a big ol messy looking switch case. 
   - **thoughts:** slow brain day I'd call it, lot of todos prior to getting to coding, knew i'd have to do a leeeetle bit to keep going, too much googling how to recall nested objects. double thinkin in the tests for this project says the buttons have to be clickable and keypress, does it need play, pause, stop? eh?
