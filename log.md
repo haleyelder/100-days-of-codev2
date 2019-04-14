@@ -1,10 +1,16 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 6: April 13
+- **today i..** finished up what i could for the drumkit and submitted! i know not all tests are passing but this is the 'just make it work' stage
+  - **thoughts:** kinda meh on the not all tests passing but seeing how some others did it, I'll need to refactor anyway. could pull in more props and state functionality rather than a couple of switch cases. now realized that took less than a week! calling it a win and onto the next thing!
+- submitted project: [HERE](https://codepen.io/haleyelder/full/EMyveL)
+  - time: 2.5 hours
+  - tags: react
+
 ### 5: April 11
 - **today i..** completed setting up the menial task of the object of keypress to audio elements, it didnt actually take that long. now working on a nested for in loop since chaining a lot of if statements to check for information seemed quite redundant 
   - **thoughts:** when you think something will take longer then it should and it doesn't! also glad to recall and apply multidimensional for loop for arrays can help for objects. i remember doing my first projects for fCC and could have gone this way but did the repetive i believe
 - current progress: [HERE](https://codepen.io/haleyelder/full/EMyveL)
-  - location: home
   - time: 45 min
   - tags: react
 
@@ -12,7 +18,6 @@
 - **today i..** need to regrab those audio clips! a update ran, i guess, and the notepad i had them in disappeared (save your work, friends!). started setting up an object to reference with the necessary info for the on handle key press function rather than a big ol messy looking switch case. 
   - **thoughts:** slow brain day I'd call it, lot of todos prior to getting to coding, knew i'd have to do a leeeetle bit to keep going, too much googling how to recall nested objects. double thinkin in the tests for this project says the buttons have to be clickable and keypress, does it need play, pause, stop? eh?
 - current progress: [HERE](https://codepen.io/haleyelder/full/EMyveL)
-  - location: home
   - time: 30 min
   - tags: react
 
@@ -20,7 +25,6 @@
 - **today i..** grabbed the audio clips from the example project, not to look at the solution too closely and set up a handleKeyPress event function that works! with 2 keys so far. by looking at the tests, had to decide if a few child components could be done (is better) or looping through an object. probably start with object refactoring first
   - **thoughts:** surprised it was pretty quick to get the keypress sound going! most slowdown was due to unfocused, bored brain and impatient with Codepen's DDOS attack. no big complaint there, just made the refresh load slowly
 - current progress: [HERE](https://codepen.io/haleyelder/full/EMyveL)
-  - location: home
   - time: 2 ish hours
   - tags: react
 
@@ -28,7 +32,6 @@
 - **today i..** forgo the aforementioned styling, will circle back when pushing to my live site. continue scoping out the next project for a keyboard based Drum kit, have a good skeleton started. keypress logs to the console, found some audio clips, next to connect those functions!
   - **thoughts:** spent way too long looking for the audio file reference to use in browser, the example codepen will suffice, kinda want to use an API but... later
 - progress [HERE](https://codepen.io/haleyelder/full/EMyveL)
-  - location: home
   - time: 1 ish hours
   - tags: react
 
@@ -37,6 +40,5 @@
 - **today i..** continued with the Front End Libraries cert, I worked out the rest of the tests to pass in the Markdown previewer as well as fixed up some odd input bug. all tests pass! expecting to work on some styling tomorrow
   - **thoughts:** those tests were quite annoying since you would think you would get them right but slightly off, reading some others code to see what they did, I read through and tailored my own functionality
 - progress **[HERE](https://codepen.io/haleyelder/full/wOGxZV)**
-  - location: home
   - time: 3.5 ish hours
   - tags: react
