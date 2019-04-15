@@ -1,5 +1,12 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 7: April 14
+- **today i..** read over JS calculator testing suite, what was needed and structuring the calculators components, no functionality yet
+  - **thoughts:** not much to report yet!
+- current project: [HERE](https://codepen.io/haleyelder/full/mgBmja)
+  - time: 30 min
+  - tags: react
+
 ### 6: April 13
 - **today i..** finished up what i could for the drumkit and submitted! i know not all tests are passing but this is the 'just make it work' stage
   - **thoughts:** kinda meh on the not all tests passing but seeing how some others did it, I'll need to refactor anyway. could pull in more props and state functionality rather than a couple of switch cases. now realized that took less than a week! calling it a win and onto the next thing!
