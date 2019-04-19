@@ -1,5 +1,12 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 8: April 18 
+- **today i..** before jumping into the calculator, rehashing some redux challenges in fCC
+  - **thoughts:** had a moment of 'lack of focus' and searched for something else that could quicker/easier/more simple way of teaching full stack web, but realized i needed to rehash the basics again. my memory and recall has been a bit crap lately...
+- current project: [HERE](https://codepen.io/haleyelder/full/mgBmja)
+  - time: 30 min
+  - tags: redux
+
 ### 7: April 14
 - **today i..** read over JS calculator testing suite, what was needed and structuring the calculators components, no functionality yet
   - **thoughts:** not much to report yet!
