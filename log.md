@@ -1,9 +1,14 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 9: April 19 
+- **today i..** some more redux challenges to walk through
+  - **thoughts:** friday evening coding after a slow week might not have been a great idea, but i did it! 😴
+  - time: 30 min
+  - tags: redux
+
 ### 8: April 18 
 - **today i..** before jumping into the calculator, rehashing some redux challenges in fCC
   - **thoughts:** had a moment of 'lack of focus' and searched for something else that could quicker/easier/more simple way of teaching full stack web, but realized i needed to rehash the basics again. my memory and recall has been a bit crap lately...
-- current project: [HERE](https://codepen.io/haleyelder/full/mgBmja)
   - time: 30 min
   - tags: redux
 
