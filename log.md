@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 10: April 21
+- **today i..** mostly reading today of react/redux, etc
+  - **thoughts:** not much to remark on tonight! ¯\_(ツ)_/¯
+  - time: 30 min
+  - tags: react/redux
+  
 ### 9: April 19 
 - **today i..** some more redux challenges to walk through
   - **thoughts:** friday evening coding after a slow week might not have been a great idea, but i did it! 😴
