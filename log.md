@@ -1,5 +1,13 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 11: May 6
+- **today i..** personal install party for a udemy course I bought over the weekend for fullstack node/react/redux project to work through. figured would get a practice run through and begin my own or something like that. 
+  - **thoughts:** back to install/uninstall/reinstall postgres fun similar to my battles over the winter, idk why it was so hard! seems to be working now though
+  - time: 1 hr
+  - tags: 
+
+~ a little hiatus ~
+
 ### 10: April 21
 - **today i..** mostly reading today of react/redux, etc
   - **thoughts:** not much to remark on tonight! ¯\_(ツ)_/¯
