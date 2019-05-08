@@ -1,10 +1,16 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 12: May 7
+- **today i..** continued video workthrough and setup
+  - **thoughts:** probably need to revisit constructors and all about them soon, was distracted while working but short duration today
+  - time: 30 min
+  - tags: vanilla js
+  
 ### 11: May 6
 - **today i..** personal install party for a udemy course I bought over the weekend for fullstack node/react/redux project to work through. figured would get a practice run through and begin my own or something like that. 
   - **thoughts:** back to install/uninstall/reinstall postgres fun similar to my battles over the winter, idk why it was so hard! seems to be working now though
   - time: 1 hr
-  - tags: 
+  - tags: vanilla js
 
 ~ a little hiatus ~
 
