@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 14: May 9
+- **today i..** more udemy course vids, got through the first section, mostly setting up models for the app, installing nodemon, etc
+  - **thoughts:** so much info to cram *.* bootcamp practice maybe? 
+  - time: 1 hr
+  - tags: vanilla js
+  
 ### 13: May 8
 - **today i..** got an intro to Typescript through Women Who Code Portland's study group (which I lead!) but was taught by Keeley, very informative
   - **thoughts:** will need a mini project to either convert vanilla js to typescript or start off a react project with it, that's possible right...
