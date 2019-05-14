@@ -1,5 +1,17 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 16: May 13
+- **today i..** verifying some postgresql set up, the pgadmin worked fine but the command line way may be a bit off...the default user is 'haley' but i want to use 'postgres' but may not be the same user as in pgadmin?? we'll see what errors out in the next video if so 
+  - **thoughts:** see above!
+  - time: 1 hr
+  - tags: vanilla js
+  
+### 15: May 12
+- **today i..** bit more model building and express.js set up
+  - **thoughts:** 
+  - time: 30min
+  - tags: vanilla js
+
 ### 14: May 9
 - **today i..** more udemy course vids, got through the first section, mostly setting up models for the app, installing nodemon, etc
   - **thoughts:** so much info to cram *.* bootcamp practice maybe? 
