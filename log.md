@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 17: May 14
+- **today i..** able to set up and verify the psql commands and what not! the first steps, and also configuring a bash script or something like that, stuck on something there...next time!
+  - **thoughts:** have had such a pain trying to get psql set up last year, earlier this year, and now boom, got it it seems. more to learn!
+  - time: 1 hr
+  - tags: psql, bash
+
 ### 16: May 13
 - **today i..** verifying some postgresql set up, the pgadmin worked fine but the command line way may be a bit off...the default user is 'haley' but i want to use 'postgres' but may not be the same user as in pgadmin?? we'll see what errors out in the next video if so 
   - **thoughts:** see above!
