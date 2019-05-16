@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 18: May 15
+- **today i..** still stuck seeing why my dropdb bash isn't firing the command, recognizes it but 'command not found' hmm...
+  - **thoughts:** troubleshooting! argh!
+  - time: 30min
+  - tags: psql, bash
+
 ### 17: May 14
 - **today i..** able to set up and verify the psql commands and what not! the first steps, and also configuring a bash script or something like that, stuck on something there...next time!
   - **thoughts:** have had such a pain trying to get psql set up last year, earlier this year, and now boom, got it it seems. more to learn!
