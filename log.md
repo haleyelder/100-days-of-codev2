@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 19: May 17
+- **today i..** loooots of troubleshooting why the bash script still wasn't recognizing the configure script to perform a drop and create databases and then set up 2 sql pages. FINALLY got it after realizing my PATH was incorrect and cleaned that up a bit (yea, yea, should have done that earlier). weird relation to other hobby, knitting, where checking your size gauge FIRST and verifying before you start is very important!
+  - **thoughts:** lot of frustration with what seemed like a simple update, but hey, got it figured out! 
+  - time: 2 hrs
+  - tags: psql, bash
+  
 ### 18: May 15
 - **today i..** still stuck seeing why my dropdb bash isn't firing the command, recognizes it but 'command not found' hmm...
   - **thoughts:** troubleshooting! argh!
