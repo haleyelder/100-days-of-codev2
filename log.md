@@ -1,10 +1,16 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 21: May 31
+- **today i..** more vids etc, thought i would have to troubleshoot the last section but now works just fine (?) huh, now to fix another thing in my next session tomorrow ish
+  - **thoughts:** welp another mini hiatus
+  - time: 30 min
+  - tags: vanilla js
+
 ### 20: May 18
 - **today i..** catching up on next steps with course, node psql is a thing?? confusing to run through the last bit but glad my config script now works
   - **thoughts:** 
   - time: 30 min
-  - tags: vanilla js, sqk
+  - tags: vanilla js, sql
 
 ### 19: May 17
 - **today i..** loooots of troubleshooting why the bash script still wasn't recognizing the configure script to perform a drop and create databases and then set up 2 sql pages. FINALLY got it after realizing my PATH was incorrect and cleaned that up a bit (yea, yea, should have done that earlier). weird relation to other hobby, knitting, where checking your size gauge FIRST and verifying before you start is very important!
