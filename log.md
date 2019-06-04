@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 23: June 3
+- **today i..** woke super early finally and feeling like i got a bit more time in my day for stuff!* as in coding* slowly getting to the end of psql stuff, well sql in general, it's confusing, mongo next?
+  - **thoughts:** really not much today! zzzz
+  - time: 40min
+  - tags: vanilla js, sql
+
 ### 22: June 2
 - **today i..** found the aforementioned stuck spot in the last logged day! had to rewatch some vids but found it was the most recent part, oh well. sort of getting the hang of SQL set up and how it connects through files, have had a small amount of flask and database integration work, re: MINIMAL, but it's kinda clicking now :P
   - **thoughts:** realizing about 30 days to 'end date' and wonder how after 2 mini hiatus I will be doing in the fture as well as hours stacked over days how that will turn out. nice to see where i was at some point i guess!
