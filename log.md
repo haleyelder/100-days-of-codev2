@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 24: June 4
+- **today i..** verifying functionality in the course and even answered some q+a some people were having issues with set up that i already passed! feelsgoodman.gif
+  - **thoughts:** hit one of those fun "i am doomed why is this borked xyz" for a dash instead of =, yay programming!
+  - time: 1hr
+  - tags: vanilla js, sql
+
 ### 23: June 3
 - **today i..** woke super early finally and feeling like i got a bit more time in my day for stuff!* as in coding* slowly getting to the end of psql stuff, well sql in general, it's confusing, mongo next?
   - **thoughts:** really not much today! zzzz
