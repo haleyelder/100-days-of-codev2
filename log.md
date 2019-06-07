@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 25: June 6
+- **today i..** last two parts of the backend database section! slowly understanding some but i may just be forcing the knowledge of SQL and set up...felt like listening to another language (har har technically is)
+  - **thoughts:** trying out this project based business and hope the next part can cement it all together, again would prefer maybe to use a diff database set up :P this one seemed overly complicated or maybe just the nature of the beast/instructor
+  - time: 30
+  - tags: vanilla js, sql
+
 ### 24: June 4
 - **today i..** verifying functionality in the course and even answered some q+a some people were having issues with set up that i already passed! feelsgoodman.gif
   - **thoughts:** hit one of those fun "i am doomed why is this borked xyz" for a dash instead of =, yay programming!
