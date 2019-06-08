@@ -1,9 +1,15 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 26: June 8 🎂
+- **today i..** rewatched through last 2 vids to find my mistake for the last bit of backend, no code missing, just running a configure script (nice). now onto connecting with a react frontend! also first time using parcel as a bundler
+  - **thoughts:** relieved this one time it wasn't a tiny code sample that messed up! seeing those occur more and more.. better typos then more difficult fixes
+  - time: 1hr
+  - tags:  react
+  
 ### 25: June 6
 - **today i..** last two parts of the backend database section! slowly understanding some but i may just be forcing the knowledge of SQL and set up...felt like listening to another language (har har technically is)
   - **thoughts:** trying out this project based business and hope the next part can cement it all together, again would prefer maybe to use a diff database set up :P this one seemed overly complicated or maybe just the nature of the beast/instructor
-  - time: 30
+  - time: 30 min
   - tags: vanilla js, sql
 
 ### 24: June 4
