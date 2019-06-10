@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 27: June 9 
+- **today i..** short set up with some additional installation troubleshooting and express stuff. double the command lines! double the...work? 
+  - **thoughts:** hoping my next full stack project isn't this uh, difficult, more work from the ground up more then midway on someone elses project but good tips for how to get set up!
+  - time: 40min
+  - tags:  vanilla js, react
+  
 ### 26: June 8 🎂
 - **today i..** rewatched through last 2 vids to find my mistake for the last bit of backend, no code missing, just running a configure script (nice). now onto connecting with a react frontend! also first time using parcel as a bundler
   - **thoughts:** relieved this one time it wasn't a tiny code sample that messed up! seeing those occur more and more.. better typos then more difficult fixes
