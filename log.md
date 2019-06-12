@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 28: June 11
+- **today i..** set up a local copy of my future blog powered by gatsby! long time coming i think, already pushed to live with netlify but no fancy designs out there yet :)
+  - **thoughts:** saw a tutorial to move medium posts over to gatsby without having to download old posts but not sure where that went now! probably just pick and choose the ones i want to keep :P
+  - time: 40min
+  - tags:  DNS configurations, gatsby, etc
+
 ### 27: June 9 
 - **today i..** short set up with some additional installation troubleshooting and express stuff. double the command lines! double the...work? 
   - **thoughts:** hoping my next full stack project isn't this uh, difficult, more work from the ground up more then midway on someone elses project but good tips for how to get set up!
