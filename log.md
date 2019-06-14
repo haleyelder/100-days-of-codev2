@@ -1,5 +1,12 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+
+### 29: June 12
+- **today i..** continued work on a gatsby blog, the blog subdomain was already created but wouldn't resolve due to no SSL. got a free year of it through my hosting and already is resolving properly! :D now is to mold it to a theme that fits me or something like that
+  - **thoughts:** reading some docs i was unsure and unaware how the posts are made since you can connect graphql to make the posts?? but renders in markdown (that part is easier), or maybe ill manually make the posts?? never used a static site generator before so this will all be new
+  - time: 40min
+  - tags:  DNS configurations, gatsby, etc
+
 ### 28: June 11
 - **today i..** set up a local copy of my future blog powered by gatsby! long time coming i think, already pushed to live with netlify but no fancy designs out there yet :)
   - **thoughts:** saw a tutorial to move medium posts over to gatsby without having to download old posts but not sure where that went now! probably just pick and choose the ones i want to keep :P
