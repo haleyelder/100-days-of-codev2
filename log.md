@@ -1,7 +1,12 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
-
-### 29: June 12
+### 30: June 14
+- **today i..** removed gatsby default starter for blog starter since that's actually what i needed, no docs for this so deleted old info and resinstalled. some errors when trying to build, not sure why or what they really mean..cleaning up later!
+  - **thoughts:** still confused about those errors, maybe open source but it was a lot of errors.. 
+  - time: 30min
+  - tags:  n/a
+  
+### 29: June 13
 - **today i..** continued work on a gatsby blog, the blog subdomain was already created but wouldn't resolve due to no SSL. got a free year of it through my hosting and already is resolving properly! :D now is to mold it to a theme that fits me or something like that
   - **thoughts:** reading some docs i was unsure and unaware how the posts are made since you can connect graphql to make the posts?? but renders in markdown (that part is easier), or maybe ill manually make the posts?? never used a static site generator before so this will all be new
   - time: 40min
