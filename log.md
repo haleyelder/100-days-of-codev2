@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 31: June 18
+- **today i..** fixing up some dependency errors for the gatsby starter blog and installed some new packages, testing in other repos and reinstalling took quite some time it felt, probably what it's really like irl :P
+  - **thoughts:** felt like if this would happen on the job i would be so stuck cause i couldnt just delete my directory and repo and reupload o.O
+  - time: 1hr 30min
+  - tags:  n/a
+
 ### 30: June 14
 - **today i..** removed gatsby default starter for blog starter since that's actually what i needed, no docs for this so deleted old info and resinstalled. some errors when trying to build, not sure why or what they really mean..cleaning up later!
   - **thoughts:** still confused about those errors, maybe open source but it was a lot of errors.. 
