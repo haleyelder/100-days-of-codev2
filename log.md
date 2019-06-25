@@ -1,5 +1,17 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 33: June 24
+- **today i..** continued aforementioned tutorial, stopping point was reinstalling mongo..oh joy, another DB! the rest should go quick i hope, maybe even rewrite my own (with better explanations/updates)
+  - **thoughts:** 
+  - time: 45min
+  - tags: react, javascript
+
+### 32: June 23
+- **today i..** started yet another shorter tutorial, MERN stack quick start, will have the other on deck! basically next project is a glorified CRUD app so that works a bit better :P different type of data base to work with!
+  - **thoughts:** good thing I knew some basic React since the tutorial blog sections didn't explain much at all -_- search for your own i guess?
+  - time: 1hr
+  - tags: react, javascript
+
 ### 31: June 18
 - **today i..** fixing up some dependency errors for the gatsby starter blog and installed some new packages, testing in other repos and reinstalling took quite some time it felt, probably what it's really like irl :P
   - **thoughts:** felt like if this would happen on the job i would be so stuck cause i couldnt just delete my directory and repo and reupload o.O
