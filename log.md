@@ -1,5 +1,17 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 35: July 8
+- **today i..** more blog refine, prob a mad dash at the very end for what works and does not..
+  - **thoughts:** phew is all i got
+  - time: 30min
+  - tags: react, javascript
+
+### 34: July 7
+- **today i..** continued working on blog to show at least something at the end of this 100 days of code :P
+  - **thoughts:** logging this on the 8th so it's the day before the end, no guarantees anything else will happen here. 
+  - time: 2 hrs
+  - tags: react, javascript
+  
 ### 33: June 24
 - **today i..** continued aforementioned tutorial, stopping point was reinstalling mongo..oh joy, another DB! the rest should go quick i hope, maybe even rewrite my own (with better explanations/updates)
   - **thoughts:** 
