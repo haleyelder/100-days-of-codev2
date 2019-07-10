@@ -1,5 +1,11 @@
 **start date:** March 31, 2019; **prospective end date:** July 9, 2019
 
+### 35: July 9 (the last day!)
+- **today i..** working through a MERN thing and made a backend mongo connection! took a bit but all it was was URL encoding, woops, rest should be straight forward
+  - **thoughts:** mixed emotions now at the end, ive tracked ish for 100days, no i did not make them all but was nice to see what i was doing per time i was, not sure if it helped or hurt anxiety of learning lol. post on this later on my new blog!
+  - time: 1hr 30min
+  - tags: javascript
+
 ### 35: July 8
 - **today i..** more blog refine, prob a mad dash at the very end for what works and does not..
   - **thoughts:** phew is all i got
